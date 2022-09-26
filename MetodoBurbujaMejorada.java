@@ -1,7 +1,6 @@
 package com.mycompany.metodoburbujamejorada;
 import java.util.Scanner;
 public class MetodoBurbujaMejorada {
-    //ANGEL ROEL LEAL ALVARADO ISC 21380638
     static int[] vek = new int[5];
     static int temp = 0, cont = 0;
     static boolean marcador = false;
